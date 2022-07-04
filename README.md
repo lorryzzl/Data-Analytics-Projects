@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
-Real world data analytics projects
+# Data-Science-Projects
+Real world data science projects
